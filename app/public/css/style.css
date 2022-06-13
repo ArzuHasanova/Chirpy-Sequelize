@@ -1,0 +1,29 @@
+.chirp {
+  padding: 10px;
+  margin: 10px;
+  background-color: #e8f9ff;
+}
+
+.jumbotron {
+  color: white;
+  background-color: #f27d1d;
+}
+
+input,
+textarea {
+  margin: 20px;
+}
+
+.btn {
+  margin: 10px;
+  color: #f27d1d;
+  background-color: white;
+  border-color: #f27d1d;
+  border-style: solid;
+  border-width: 2px;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+}
